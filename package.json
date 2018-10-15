@@ -1,0 +1,17 @@
+{
+  "name": "patterns",
+  "version": "1.0.0",
+  "description": "Handy patterns for web development",
+  "main": "app.js",
+  "dependencies": {
+    "http": "^0.0.0",
+    "start": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node app.js"
+  },
+  "author": "Sven Lochner",
+  "license": "MIT"
+}
